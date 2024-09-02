@@ -4,15 +4,9 @@
 package lesson0;
 
 public class App {
-    public String getGreeting() {
-        return "Hello World!";
-    }
-
-    public static void firstEx() {
-        // my code here
-    }
 
     public static void main(String[] args) {
-        firstEx();
+        Ex1 x = new Ex1();
+        x.demo();
     }
 }

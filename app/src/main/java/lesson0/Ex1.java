@@ -11,7 +11,7 @@ public class Ex1 {
     Integer a;
     Integer b;
     Scanner keyboard = new Scanner(System.in);
-    System.out.println("1st Integer?");
+    System.out.println("Hello there");
     a = keyboard.nextInt();
     System.out.println("a=" + a);
     keyboard.close();
